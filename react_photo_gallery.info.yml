@@ -1,0 +1,7 @@
+name: 'Photo Gallery'
+version: 8.x-0.1
+description: 'React photo gallery for Drupal 8.'
+
+package: 'servinube'
+type: module
+core: 8.x

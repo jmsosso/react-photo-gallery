@@ -1,0 +1,7 @@
+react_photo_gallery.photo_gallery:
+  path: '/photo-gallery'
+  defaults:
+    _controller: '\Drupal\react_photo_gallery\Controller\PhotoGalleryController::page'
+    _title: 'Photo Gallery'
+  requirements:
+    _permission: 'access content'
